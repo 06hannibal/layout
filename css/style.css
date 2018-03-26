@@ -31,12 +31,12 @@
 }
 .a {
     text-align: center;
-    font-size: 140px;
+    font-size: 120px;
     opacity: 1;!important;
 }
 .b {
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     opacity: 1;!important;
 }
 /*/////////////////////////////////*/
@@ -438,18 +438,88 @@ nav select:focus{
 /*///////////////////////////////////////////////*/
 .footer {
     width: 100%;
-    height: 800px;
+    height: 650px;
     background: url(../img/short-or-long-coffee.jpg) center center no-repeat;
     background-size: cover;
     z-index: -1;!important;
 }
 /*/////////////////////////////////*/
 .footer-bag {
-    opacity: 0.8;
+    opacity: 0.9;
     background: #92c8df;
     height: 800px;
     width: 75%;
     float: right;
+}
+.footer-bag-corect {
+    list-style-type: none;
+    font-family:Geneva, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1;
+    z-index: 100;!important;
+    margin-right: 150px;
+}
+.footer-bag-corect-a {
+    color: #ffffff;
+    font-size: 90px;
+    float: right;
+    text-align: right;
+    line-height: 1.3;
+}
+.footer-bag-corect-b {
+    color: #ffffff;
+    font-size: 30px;
+    float: right;
+    text-align: right;
+}
+.footer-bag-corect-c {
+    color: #232931;
+    font-size: 30px;
+    float: right;
+    text-align: right;
+    margin-top: 20px;
+}
+.footer-bag-corect-d {
+    background: #232931;
+    z-index: 40;!important;
+    opacity: 1;!important;
+    height: 180px;
+    position: relative;
+}
+.block-a {
+    display: inline-block;
+    margin-right: 130px;
+    margin-top: 50px;
+    position: relative;
+    float: right;
+}
+.block-b {
+    display: inline-block;
+    margin-right: 130px;
+    margin-top: 50px;
+    position: relative;
+    float: right;
+}
+.block-c {
+    display: inline-block;
+    margin-right: 130px;
+    margin-top: 50px;
+    position: relative;
+    float: right;
+}
+.block-d {
+    display: inline-block;
+    margin-top: 50px;
+    position: relative;
+    float: right;
+}
+.footer-bag-corect-d a i {
+    list-style-type: none;
+    color:#ffffff;
+    font-size: 70px;
+}
+.footer-bag-corect-d a i:hover {
+    color: #f1ff36;
 }
 /*///////////////////////////////////////////////*/
 
