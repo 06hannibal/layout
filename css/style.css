@@ -1,0 +1,170 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+/*///////////////////////////////////////////////*/
+.header {
+    background: #ffffff;
+    width: 100%;
+    height: 250px;
+}
+/*///////////////////////////////////////////////*/
+.left-block {
+    width: 30%;
+    height: 1300px;
+    display: inline-block;
+}
+/*//////////////////////////////////////*/
+.band-yellow {
+    opacity: 0.8;
+    background: #ffcc30;
+    width: 250px;
+    height: 1000px;
+    margin-left: 150px;
+    display: block;
+}
+.band {
+    list-style-type: none;
+    margin-bottom: 0px;
+}
+.band-i {
+    height: 10px;
+}
+
+/*/////////////////////////////////*/
+.band-corect {
+    list-style-type: none;
+    color:#ffffff;
+    font-family:Geneva, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    opacity: 1;!important;
+}
+/*/////////////////////////////////*/
+.a {
+
+    font-size: 85px;
+    text-align: center;
+}
+/*/////////////////////////////////*/
+.b {
+    font-size: 25px;
+    text-align: center;
+}
+/*/////////////////////////////////*/
+.c {
+    background:#ffffff;
+    width: 72px;
+    height: 20px;
+    margin-left: 25px;
+}
+/*/////////////////////////////////*/
+.d {
+    text-align: left;
+    padding-top: 20px;
+    font-size: 15.6px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+/*/////////////////////////////////*/
+.i {
+    text-align: left;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+/*/////////////////////////////////*/
+.f {
+    text-align: left;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+/*//////////////////////////////////////*/
+.band-black {
+    background: #232931;
+    width: 400px;
+    height: 300px;
+    display: block;
+}
+/*/////////////////////////////////*/
+.band-corect-a {
+    list-style-type: none;
+    text-align: left;
+    padding-left: 80px;
+    margin-bottom: 0px;
+}
+/*/////////////////////////////////*/
+li a {
+    text-decoration: none;
+    font-family:Geneva, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height:3;
+}
+/*/////////////////////////////////*/
+li a:hover {
+    color: red;
+}
+/*/////////////////////////////////*/
+.locat a {
+    color: #ffffff;
+}
+.phone a {
+    color: #ffffff;
+    text-align: center;
+}
+.email a {
+    color: #ffffff;
+}
+.site a {
+    color: #dcae27;
+    margin-left: 30px;
+}
+.locat .material-icons {
+    color: #ffffff;
+
+}
+.phone .material-icons {
+    color: #ffffff;
+    margin-left: 40px;
+}
+.email .material-icons {
+    color: #ffffff;
+    margin-left: 15px;
+}
+/*///////////////////////////////////////////////*/
+.right-block {
+    width: 70%;
+    height: 1300px;
+    display: inline-block;
+}
+/*///////////////////////////////////////////////*/
+
+/*///////////////////////////////////////////////*/
+.content {
+    background: #232931;
+    width: 100%;
+    height: 400px;
+}
+
+/*/////////////////////////////////*/
+#featured {
+    display: inline-block;
+}
+#featured img {
+    width: 950px;
+    height: 400px;
+    background: #009cff url('../orbit/loading.gif') no-repeat center center;
+
+}
+/*///////////////////////////////////////////////*/
+.footer {
+    width: 100%;
+    height: 650px;
+    background: url("../img/short-or-long-coffee.jpg") center center no-repeat;
+    background-size: cover;
+    line-height: 0%;
+}
+/*///////////////////////////////////////////////*/
+
