@@ -76,7 +76,7 @@
     z-index: 100;!important;
     padding-left: 50px;
     padding-right: 50px;
-    padding-top: 100px;
+    padding-top: 135px;
     position: relative;
 }
 .i {
@@ -110,7 +110,7 @@ li a {
     text-decoration: none;
     font-family:Geneva, Arial, Helvetica, sans-serif;
     font-size: 25px;
-    line-height: 3;
+    line-height: 3.5;
     text-align: left;
 }
 li a:hover {
@@ -172,24 +172,9 @@ li a:hover {
 /*/////////////////////////////////*/
 .name-header-corect-b {
     position: relative;
-    left: 900;
     left: 860px;
     bottom: 310px;
 }
-/*///////////////////////////////////////////////*/
-
-/*/////////////////////////////////*/
-
-/*/////////////////////////////////*/
-
-/*/////////////////////////////////*/
-
-/*/////////////////////////////////*/
-
-/*/////////////////////////////////*/
-
-/*/////////////////////////////////*/
-
 /*///////////////////////////////////////////////*/
 .content {
     width: 100%;
@@ -457,6 +442,14 @@ nav select:focus{
     background: url(../img/short-or-long-coffee.jpg) center center no-repeat;
     background-size: cover;
     z-index: -1;!important;
+}
+/*/////////////////////////////////*/
+.footer-bag {
+    opacity: 0.8;
+    background: #92c8df;
+    height: 800px;
+    width: 75%;
+    float: right;
 }
 /*///////////////////////////////////////////////*/
 
