@@ -150,13 +150,13 @@ li a:hover {
     list-style-type: none;
     font-family:Geneva, Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 270%;
     text-align: right;
 }
 /*/////////////////////////////////*/
 .name-header-corect-a {
     position: relative;
-    left: 860px;
+    left: 105%;
     bottom: 180px;
 }
 /*/////////////////////////////////*/
@@ -165,13 +165,13 @@ li a:hover {
     height: 140px;
     background: #ffd04f;
     position: relative;
-    left: 1720px;
+    left: 206%;
     bottom: 250px;
 }
 /*/////////////////////////////////*/
 .name-header-corect-b {
     position: relative;
-    left: 860px;
+    left: 105%;
     bottom: 310px;
 }
 /*///////////////////////////////////////////////*/
@@ -636,7 +636,7 @@ nav select:focus{
     }
     /*/////////////////////////////////*/
     .name-header {
-        width: 45%;
+        width: 75%;
         height: 0px;
     }
     .name-header-corect {
@@ -644,14 +644,14 @@ nav select:focus{
         list-style-type: none;
         font-family:Geneva, Arial, Helvetica, sans-serif;
         font-weight: bold;
-        font-size: 40px;
+        font-size: 290%;
         text-align: right;
         line-height: 1.9;
     }
     /*/////////////////////////////////*/
     .name-header-corect-a {
         position: relative;
-        left: 600px;
+        left: 21%;
         bottom: 180px;
     }
     /*/////////////////////////////////*/
@@ -660,13 +660,13 @@ nav select:focus{
         height: 90px;
         background: #ffd04f;
         position: relative;
-        left: 1200px;
+        left: 123%;
         bottom: 250px;
     }
     /*/////////////////////////////////*/
     .name-header-corect-b {
         position: relative;
-        left: 600px;
+        left: 21%;
         bottom: 310px;
     }
     /*/////////////////////////////////*/
@@ -875,7 +875,7 @@ nav select:focus{
     /*/////////////////////////////////*/
     .name-header-corect-a {
         position: relative;
-        left: 50%;
+        left: 48%;
         bottom: 180px;
     }
     /*/////////////////////////////////*/
@@ -890,7 +890,7 @@ nav select:focus{
     /*/////////////////////////////////*/
     .name-header-corect-b {
         position: relative;
-        left: 50%;
+        left: 48%;
         bottom: 310px;
     }
     /*/////////////////////////////////*/
@@ -1106,7 +1106,7 @@ nav select:focus{
     /*/////////////////////////////////*/
     .name-header-corect-a {
         position: relative;
-        left: -200px;
+        left: -15%;
         bottom: 460px;
     }
     /*/////////////////////////////////*/
@@ -1115,13 +1115,13 @@ nav select:focus{
         height: 70px;
         background: #ffd04f;
         position: relative;
-        left: 580px;
+        left: 87%;
         bottom: 505px;
     }
     /*/////////////////////////////////*/
     .name-header-corect-b {
         position: relative;
-        left: -200px;
+        left: -15%;
         bottom: 550px;
     }
     /*///////////////////////////////////////////////*/
